@@ -27,5 +27,7 @@ body {
 }
 .sumar {
 	display: none;
+	background-color:green;
+	color:orange;
 }
 
