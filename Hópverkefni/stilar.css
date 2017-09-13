@@ -8,10 +8,7 @@ body {
 	display:none;
 }
 .vor {
-	display: none;
-}
-.sumar {
-	background: linear-gradient(to bottom left,  #00ff2b, #e6ad0d); /* Standard syntax (must be last) */
+	background: linear-gradient(to bottom left, limegreen , lightblue ); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -23,8 +20,11 @@ body {
 	align-items: center;
 	align-content: center;
 }
-.sumar h1 {
+.vor h1 {
 	font-size: 5em;
-	color: black;
+	color: white;
+}
+.sumar {
+	display:none;
+}
 
-.
